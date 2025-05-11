@@ -11,6 +11,6 @@ public class bus {
     @GetMapping("/bus")
 
     public String getData() {
-        return "please book your bus ticket from Bangluru to Nagpur for 50% discount" ; }
+        return "please book your bus ticket from Bangluru to Nagpur for 10% discount" ; }
 
 }

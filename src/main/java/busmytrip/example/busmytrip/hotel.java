@@ -11,6 +11,6 @@ public class hotel {
     @GetMapping("/hotel")
 
     public String getData() {
-        return "please book your Hotel The Grand Centralpoint hotel for 50% discount" ; }
+        return "please book your Hotel The Grand Centralpoint hotel for 90% discount" ; }
 
 }
